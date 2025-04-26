@@ -120,12 +120,39 @@ The project will generate comparison metrics for:
 
 ## Dependencies
 
-- Python 3.8+
-- TensorFlow 2.0+
-- PyTorch
-- Transformers library
-- Pandas, NumPy, Matplotlib
-- Scikit-learn
+Python 3.8+
+
+TensorFlow 2.0+
+
+PyTorch
+
+Transformers library
+
+Pandas, NumPy, Matplotlib
+
+Scikit-learn
+
+- TensorFlow 2.0+:
+An open-source machine learning framework developed by Google. It is used for building and training deep learning models, especially neural networks.
+
+- PyTorch:
+An open-source machine learning library developed by Facebook's AI Research lab. It provides a flexible and easy-to-use platform for deep learning research and production.
+
+- Transformers Library (by Hugging Face):
+A popular library providing pre-trained models and tools for Natural Language Processing (NLP) tasks like text classification, translation, and question answering.
+
+- Pandas:
+A powerful data analysis and manipulation library for Python. It provides data structures like DataFrames to work easily with structured data.
+
+- NumPy:
+A fundamental library for numerical computations in Python, supporting large, multi-dimensional arrays and matrices, along with a collection of mathematical functions.
+
+- Matplotlib:
+A visualization library used for creating static, animated, and interactive plots and graphs in Python.
+
+- Scikit-learn:
+A machine learning library offering simple and efficient tools for data mining, data analysis, and building traditional ML models like classification, regression, and clustering.
+
 
 ## Future Work
 
